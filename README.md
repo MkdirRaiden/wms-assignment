@@ -104,7 +104,7 @@ In a production scenario, connecting `mapped_output.csv` to Lumina AI or a tool 
 
 ## 📽 Loom Demo
 
-📎 Loom link (Working on it. Will be available ASAP.): [Working on it. Will be available ASAP.]
+📎 Loom link (to be added): [Working on it...]
 
 ---
 
@@ -132,4 +132,4 @@ your-repo/
 
 ---
 
-✅ Ready for evaluation. For questions, contact: [1996raiden27@gmail.com or GitHub profile here]
+✅ Ready for evaluation. For questions, contact: 1996raiden27@gmail.com
